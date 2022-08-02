@@ -7,5 +7,4 @@ from DataLoader import *
 from Import import *
 from Show import *
 from System import *
-from Keras import *
 from Set import *
