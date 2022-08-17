@@ -3,9 +3,12 @@
 
 Data Link : https://drive.google.com/u/0/uc?id=1kwyxHwhzi9kh9YcV_0a-oqeYUQmrRmtj&export=download
 
-!git clone https://github.com/AlcoholWolf/SDASSF
+!git clone https://github.com/AlcoholWolf/SDASSF 
+
 import sys
+
 sys.path.append('./SDASSF/Prossece')
+
 from GetAll import *
 
 ---
